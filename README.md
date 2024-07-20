@@ -22,10 +22,9 @@ This project demonstrates the creation of an advanced Retrieval Augmented Genera
    pip install -r requirements.txt
 3. **Set Up Environment Variables**:
   Create a .env file in the root directory and add the following variables:
-OPENAI_API_KEY=your_openai_api_key
-WIKIPEDIA_API_KEY=your_wikipedia_api_key
-CUSTOM_WEBSITE_URL=your_custom_website_url
-RIVE_API_KEY=your_rive_api_key
+   - OPENAI_API_KEY=your_openai_api_key
+   - WIKIPEDIA_API_KEY=your_wikipedia_api_key
+   - CUSTOM_WEBSITE_URL=your_custom_website_url
 
 **Usage**
 Run the Application:
