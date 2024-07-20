@@ -34,12 +34,19 @@ streamlit run app.py
 Open the provided URL in your browser to start querying the RAG Q&A application.
 
 Project Structure
+
 app.py: Main script to run the Streamlit app.
+
 config.py: Configuration settings and environment variables.
+
 langchain_utils.py: Utility functions for LangChain integration.
+
 data_sources/: Contains wrappers for Wikipedia, custom website, and RIVE.
+
 templates/: Prompt templates used for guiding LLM interactions.
+
 requirements.txt: List of Python dependencies.
-Contributing
+
+**Contributing**
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
 
