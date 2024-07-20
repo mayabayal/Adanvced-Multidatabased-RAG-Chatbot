@@ -13,3 +13,5 @@ fastapi
 langchain_groq
 faiss-cpu
 langchainhub
+wikipedia
+langchain-openai
