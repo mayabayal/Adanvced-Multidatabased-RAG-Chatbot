@@ -1,0 +1,15 @@
+arxiv
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
+langchain_community 
+langserve
+fastapi
+uvicorn
+sse_starlette
+fastapi
+langchain_groq
+faiss-cpu
+langchainhub
